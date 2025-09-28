@@ -17,7 +17,7 @@
 **Languages:** C, JavaScript, Python  
 **Web Development:** HTML, CSS, React.js, Node.js, Express.js  
 **Database:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman  
+**Tools & Platforms:** Git, GitHub, VS Code  
 
 ---
 

@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Ayana  
 
-<!--
-**Ayanak368/Ayanak368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 Passionate about MERN Stack & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+- 🔭 Currently working on improving my **DSA & Full-Stack Development** skills  
+- 🌱 Learning **React.js, Node.js, and System Design**  
+- 🎯 Goal: To become a skilled full-stack developer and get placed in a good company  
+- ✨ Interests: Web Development, Cloud, and AI  
+- 📚 Always open to learning new technologies  
+
+---
+
+## 🛠️ Skills  
+**Languages:** C, JavaScript, Python  
+**Web Development:** HTML, CSS, React.js, Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayanak03)
+- 📧 Email:ayanak2603@gmail.com
+
+---
+
+⭐️ *“Code, Learn, Repeat.”*  
